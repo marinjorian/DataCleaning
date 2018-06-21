@@ -104,8 +104,3 @@ Columns 3 - 79 are numerical variables that contains the average values of varia
     freqBodyBodyAccJerkMag.std
     freqBodyBodyGyroMag.std
     freqBodyBodyGyroJerkMag.std
-
-The set of variables that were estimated from these signals are:
-
-mean: Mean value
-std: Standard deviation
