@@ -1,6 +1,10 @@
+# DataCleaning
+
+This repo provides code to clean the Human Activity Recognition Using Smartphones Data Set (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+
 # Usage
 
-To use "run_analysis.R", modify working directory at line 3 as the path to the Samsung data ("UCI HAR Dataset").
+To use "run_analysis.R", modify working directory at line 3 as the path to the origianl data ("UCI HAR Dataset").
 
 # Code book
 
