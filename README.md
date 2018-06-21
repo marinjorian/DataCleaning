@@ -1,4 +1,4 @@
-# DataCleaning
+# Usage
 
 To use "run_analysis.R", modify working directory at line 3 as the path to the Samsung data ("UCI HAR Dataset").
 
@@ -6,11 +6,11 @@ To use "run_analysis.R", modify working directory at line 3 as the path to the S
 
 This tidy datasets has 180 rows and 79 columns, which contains the average of each varable for each activity and each subject.
 
-Subjects
+## Subjects
 
 The first column contains 30 unique subjects.
 
-Activity
+## Activity
 
 The second column contains the following actvity types, which a factor variable with 6 levels:
 
@@ -21,7 +21,7 @@ The second column contains the following actvity types, which a factor variable 
     STANDING
     LAYING
 
-Average values of the signals
+## Mean values of the signals
 
 Columns 3 - 79 are numerical variables that contains the average values of variables that were estimated from following signals:
 
